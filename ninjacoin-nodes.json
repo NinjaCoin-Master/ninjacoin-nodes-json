@@ -1,6 +1,13 @@
 {
   "nodes": [
       {
+      "name": "cnpool.cc",
+      "url": "173.249.22.235",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },  
+    {
       "name": "NinjaCoin.org",
       "url": "server.ninjacoin.org",
       "port": 11898,
