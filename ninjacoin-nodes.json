@@ -2,7 +2,7 @@
   "nodes": [
       {
       "name": "NinjaCoin.org",
-      "url": "server.ninjacoin.org:11898",
+      "url": "server.ninjacoin.org",
       "port": 11898,
       "ssl": false,
       "cache": false
