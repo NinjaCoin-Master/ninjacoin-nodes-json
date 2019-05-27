@@ -1,0 +1,1 @@
+# ninjacoin-nodes-json

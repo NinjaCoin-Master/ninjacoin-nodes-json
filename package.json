@@ -1,0 +1,27 @@
+{
+  "name": "ninjacoin-nodes-json",
+  "version": "0.0.1",
+  "description": "json list of public daemons",
+  "main": "ninjacoin-nodes.json",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/checkForDuplicates.js && node tests/checkAlphaNumeric.js && node tests/checkAlphabetical.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninjacoin/ninjacoin-nodes-json.git"
+  },
+  "keywords": [
+    "ninjacoin",
+    "public",
+    "nodes"
+  ],
+  "author": "The NinjaCoin Developers",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ninjacoin/ninjacoin-nodes-json/issues"
+  },
+  "homepage": "https://github.com/ninjacoin/ninjacoin-nodes-json#readme"
+}
