@@ -1,8 +1,8 @@
 {
   "nodes": [
       {
-      "name": "cnpool.cc",
-      "url": "173.249.22.235",
+      "name": "Free Node",
+      "url": "188.166.43.40",
       "port": 11898,
       "ssl": false,
       "cache": false
