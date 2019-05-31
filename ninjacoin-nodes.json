@@ -15,13 +15,6 @@
       "cache": false
     },   
     {
-      "name": "NinjaCoin.org",
-      "url": "server1.ninjacoin.org",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Cryptonode.club",
       "url": "213.136.89.252",
       "port": 11898,
