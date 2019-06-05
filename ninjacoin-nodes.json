@@ -3,14 +3,14 @@
       {
       "name": "Free Node",
       "url": "188.166.43.40",
-      "port": 11898,
+      "port": 11801,
       "ssl": false,
       "cache": false
     },  
     {
       "name": "NinjaCoin.org",
-      "url": "server.ninjacoin.org",
-      "port": 11898,
+      "url": "165.227.157.221",
+      "port": 11801,
       "ssl": false,
       "cache": false
     },   
