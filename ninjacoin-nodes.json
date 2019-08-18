@@ -1,22 +1,22 @@
 {
   "nodes": [
       {
-      "name": "Free Node",
-      "url": "188.166.43.40",
+      "name": "node1:ninjacoin.org",
+      "url": "node1:ninjacoin.org",
       "port": 11801,
       "ssl": false,
       "cache": false
     },  
     {
-      "name": "NinjaCoin.org",
-      "url": "165.227.157.221",
+      "name": "node2:ninjacoin.org",
+      "url": "node2:ninjacoin.org",
       "port": 11801,
       "ssl": false,
       "cache": false
     },   
     {
-      "name": "Cryptonode.club",
-      "url": "213.136.89.252",
+      "name": "node3:ninjacoin.org",
+      "url": "node3:ninjacoin.org",
       "port": 11801,
       "ssl": false,
       "cache": false
