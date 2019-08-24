@@ -13,6 +13,13 @@
       "port": 11801,
       "ssl": false,
       "cache": false
-    }   
+    },  
+    {
+      "name": "node3.ninjacoin.org",
+      "url": "213.136.89.252",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
   ]
 }
