@@ -5,7 +5,7 @@
       "url": "188.166.43.40",
       "port": 11801,
       "ssl": false,
-      "cache": false
+      "cache": true
     },  
     {
       "name": "node2.ninjacoin.org",
