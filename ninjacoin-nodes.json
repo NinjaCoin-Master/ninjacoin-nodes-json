@@ -14,5 +14,12 @@
       "ssl": false,
       "cache": false
     },  
+    {
+      "name": "nod2.ni.org",
+      "url": "165.227.157.225",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },  
   ]
 }
