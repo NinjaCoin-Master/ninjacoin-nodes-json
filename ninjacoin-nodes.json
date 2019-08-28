@@ -2,21 +2,14 @@
   "nodes": [
       {
       "name": "node1.ninjacoin.org",
-      "url": "188.166.43.40",
+      "url": "node1.ninjacoin.org",
       "port": 11801,
       "ssl": false,
       "cache": true
     },  
     {
       "name": "node2.ninjacoin.org",
-      "url": "165.227.157.221",
-      "port": 11801,
-      "ssl": false,
-      "cache": false
-    },  
-    {
-      "name": "nod2.ni.org",
-      "url": "165.227.157.225",
+      "url": "node2.ninjacoin.org",
       "port": 11801,
       "ssl": false,
       "cache": false
