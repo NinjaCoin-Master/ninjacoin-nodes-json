@@ -20,6 +20,6 @@
       "port": 11801,
       "ssl": false,
       "cache": false
-    },  
+    }
   ]
 }
