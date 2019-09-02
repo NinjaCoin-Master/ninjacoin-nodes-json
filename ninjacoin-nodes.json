@@ -16,14 +16,14 @@
     },
      {
       "name": "node3",
-      "url": "163.172.8.20:11801",
+      "url": "163.172.8.20",
       "port": 11801,
       "ssl": false,
       "cache": false
     },
     {
       "name": "node4",
-      "url": "163.172.102.112:11801",
+      "url": "163.172.102.112",
       "port": 11801,
       "ssl": false,
       "cache": false
