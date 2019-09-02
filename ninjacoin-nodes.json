@@ -21,5 +21,19 @@
       "ssl": false,
       "cache": false
     },
+    {
+      "name": "node4",
+      "url": "163.172.102.112:11801",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "node4",
+      "url": "163.172.102.112:11801",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
 ]
 }
