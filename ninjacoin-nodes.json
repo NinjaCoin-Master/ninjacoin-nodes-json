@@ -13,6 +13,13 @@
       "port": 11801,
       "ssl": false,
       "cache": false
-    }
+    },
+     {
+      "name": "node3",
+      "url": "163.172.8.20:11801",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
 ]
 }
