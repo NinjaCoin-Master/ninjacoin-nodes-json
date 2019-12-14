@@ -1,15 +1,29 @@
 {
   "nodes": [
     {
-      "name": "node1.ninjacoin.org",
-      "url": "188.166.43.40",
+      "name": "server.ninjacoin.org",
+      "url": "165.227.157.221",
       "port": 11801,
       "ssl": false,
       "cache": false
     },
-    {
-      "name": "node2.ninjacoin.org",
-      "url": "165.227.157.221",
+        {
+      "name": "fastpool.xyz",
+      "url": "fastpool.xyz",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
+        {
+      "name": "ninja.miningpool.fun",
+      "url": "ninja.miningpool.fun",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
+      {
+      "name": "dyngepeng.zapto.org",
+      "url": "dyngepeng.zapto.org",
       "port": 11801,
       "ssl": false,
       "cache": false
