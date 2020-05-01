@@ -1,28 +1,28 @@
 {
   "nodes": [
     {
-      "name": "ninjanode.net",
+      "name": "NinjaNode.net Cache - SSL",
       "url": "public.ninjanode.net",
       "port": 443,
       "ssl": true,
       "cache": true
     },
     {
-      "name": "ninjanode.net",
+      "name": "NinjaNode.net",
       "url": "public.ninjanode.net",
       "port": 11801,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "ninjacoin.org",
+      "name": "NinjaCoin.org",
       "url": "server.ninjacoin.org",
       "port": 11801,
       "ssl": false,
       "cache": false
     },
         {
-      "name": "fastpool.xyz",
+      "name": "FastPool.XyZ",
       "url": "fastpool.xyz",
       "port": 11801,
       "ssl": false,
