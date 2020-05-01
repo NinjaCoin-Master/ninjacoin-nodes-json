@@ -7,7 +7,7 @@
       "ssl": true,
       "cache": true
     },
-      {
+    {
       "name": "ninjanode.net",
       "url": "public.ninjanode.net",
       "port": 11801,
@@ -28,7 +28,7 @@
       "ssl": false,
       "cache": false
     },
-        {
+    {
       "name": "dyngepeng.zapto.org",
       "url": "dyngepeng.zapto.org",
       "port": 11801,
