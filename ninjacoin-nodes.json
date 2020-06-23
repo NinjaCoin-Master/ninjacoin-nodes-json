@@ -35,7 +35,7 @@
       "ssl": false,
       "cache": false
     },
-        {
+    {
       "name": "LetsHash.it",
       "url": "ninja.letshash.it",
       "port": 11801,
