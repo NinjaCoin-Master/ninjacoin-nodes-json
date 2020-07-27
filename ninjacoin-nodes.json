@@ -41,6 +41,13 @@
       "port": 11801,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "China Node 1",
+      "url": "124.70.155.123",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
     }
 ]
 }
