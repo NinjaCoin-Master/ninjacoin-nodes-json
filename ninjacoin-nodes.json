@@ -44,10 +44,17 @@
     },
     {
       "name": "China Node 1",
-      "url": "124.70.155.123",
+      "url": "111.28.148.180",
       "port": 11801,
       "ssl": false,
       "cache": false
-    }
+    },
+    {
+      "name": "LetsHash.it",
+      "url": "111.28.148.181",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
 ]
 }
