@@ -43,14 +43,14 @@
       "cache": false
     },
     {
-      "name": "China Node 1",
+      "name": "海南第一家忍者节点 - Hainan#1",
       "url": "111.28.148.180",
       "port": 11801,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "LetsHash.it",
+      "name": "海口第一家忍者节点 - Hainan#2",
       "url": "111.28.148.181",
       "port": 11801,
       "ssl": false,
