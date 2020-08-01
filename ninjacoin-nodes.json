@@ -55,6 +55,20 @@
       "port": 11801,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "广州 - GuangzhouNode",
+      "url": "106.52.140.122",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Dynamic NINJA.money",
+      "url": "ninjacoin.hopto.org",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
     }
 ]
 }
