@@ -69,6 +69,20 @@
       "port": 11801,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "Aerial NINJA.money",
+      "url": "ninjacoin.sytes.net",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Zeta NINJA.money",
+      "url": "ninjacoin.webhop.me",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
     }
 ]
 }
