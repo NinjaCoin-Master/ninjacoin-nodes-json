@@ -29,13 +29,6 @@
       "cache": false
     },
     {
-      "name": "dyngepeng.zapto.org",
-      "url": "dyngepeng.zapto.org",
-      "port": 11801,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "LetsHash.it",
       "url": "ninja.letshash.it",
       "port": 11801,
@@ -44,21 +37,28 @@
     },
     {
       "name": "海南第一家忍者节点 - Hainan",
-      "url": "111.28.148.180",
+      "url": "cn1.ninjacoin.org",
       "port": 11801,
       "ssl": false,
       "cache": false
     },
     {
       "name": "海口第一家忍者节点 - Haikou",
-      "url": "111.28.148.181",
+      "url": "cn2.ninjacoin.org",
       "port": 11801,
       "ssl": false,
       "cache": false
     },
     {
       "name": "广州 - GuangzhouNode",
-      "url": "106.52.140.122",
+      "url": "cn3.ninjacoin.org",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
+        {
+      "name": "中国 - China",
+      "url": "cn4.ninjacoin.org",
       "port": 11801,
       "ssl": false,
       "cache": false
