@@ -83,6 +83,13 @@
       "port": 11801,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "Pool-Pay.com",
+      "url": "ninja.pool-pay.com",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
     }
 ]
 }
