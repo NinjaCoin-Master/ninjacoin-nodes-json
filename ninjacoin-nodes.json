@@ -90,6 +90,13 @@
       "port": 11801,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "AllCoinsPool.com",
+      "url": "http://ninja.allcoinspool.com",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
     }
 ]
 }
