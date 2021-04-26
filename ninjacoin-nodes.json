@@ -97,6 +97,13 @@
       "port": 11801,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "ProxyLogin.net",
+      "url": "ninja.proxylogin.net/ninja",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
     }
 ]
 }
