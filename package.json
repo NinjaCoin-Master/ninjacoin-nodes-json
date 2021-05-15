@@ -1,37 +1,27 @@
 {
   "name": "ninjacoin-nodes-json",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "json list of public daemons",
   "main": "ninjacoin-nodes.json",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "npm run checkDupes && npm run checkAlpha && npm run checkOrder",
-    "checkDupes": "node tests/checkForDuplicates.js",
-    "checkAlpha": "node tests/checkAlphaNumeric.js",
-    "checkOrder": "node tests/checkAlphabetical.js",
-    "checkNodes": "./node_modules/.bin/mocha tests/checkNodes.js"
+    "test": "node tests/checkForDuplicates.js && node tests/checkAlphaNumeric.js && node tests/checkAlphabetical.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ninjacoin-master/ninjacoin-nodes-json.git"
+    "url": "git+https://github.com/ninjacoin/ninjacoin-nodes-json.git"
   },
   "keywords": [
     "ninjacoin",
     "public",
     "nodes"
   ],
-  "author": "The Ninjacoin Developers",
+  "author": "The NinjaCoin Developers",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/ninjacoin-master/ninjacoin-nodes-json/issues"
+    "url": "https://github.com/ninjacoin/ninjacoin-nodes-json/issues"
   },
-  "homepage": "https://github.com/ninjacoin-master/ninjacoin-nodes-json#readme",
-  "devDependencies": {
-    "colors": "^1.4.0",
-    "mocha": "^8.1.1",
-    "request": "^2.88.2",
-    "request-promise-native": "^1.0.9"
-  }
+  "homepage": "https://github.com/ninjacoin/ninjacoin-nodes-json#readme"
 }

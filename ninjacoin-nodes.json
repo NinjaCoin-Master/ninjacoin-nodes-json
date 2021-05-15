@@ -36,41 +36,6 @@
       "cache": false
     },
     {
-      "name": "海南第一家忍者节点 - Hainan",
-      "url": "cn1.ninjacoin.org",
-      "port": 11801,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "海口第一家忍者节点 - Haikou",
-      "url": "cn2.ninjacoin.org",
-      "port": 11801,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "广州 - GuangzhouNode",
-      "url": "cn3.ninjacoin.org",
-      "port": 11801,
-      "ssl": false,
-      "cache": false
-    },
-        {
-      "name": "中国 - China",
-      "url": "cn4.ninjacoin.org",
-      "port": 11801,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Dynamic NINJA.money",
-      "url": "ninjacoin.hopto.org",
-      "port": 11801,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Aerial NINJA.money",
       "url": "ninjacoin.sytes.net",
       "port": 11801,
