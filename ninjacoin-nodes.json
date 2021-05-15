@@ -1,64 +1,43 @@
 {
-  "nodes": [
+  "nodes": [    
     {
-      "name": "NinjaNode.net Cache - SSL",
-      "url": "public.ninjanode.net",
-      "port": 443,
-      "ssl": true,
-      "cache": true
-    },
-    {
-      "name": "NinjaNode.net",
-      "url": "public.ninjanode.net",
+      "name": "AllCoinsPool.com",
+      "url": "ninja.allcoinspool.com",
       "port": 11801,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "NinjaCoin.org",
-      "url": "server.ninjacoin.org",
-      "port": 11801,
-      "ssl": false,
-      "cache": false
-    },
-        {
-      "name": "FastPool.XyZ",
+      "name": "Fastpool.xyz",
       "url": "fastpool.xyz",
       "port": 11801,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "LetsHash.it",
-      "url": "ninja.letshash.it",
+      "name": "Ninjacoin.org",
+      "url": "server.ninjacoin.org",
       "port": 11801,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "Aerial NINJA.money",
-      "url": "ninjacoin.sytes.net",
+      "name": "Ninjanode.net",
+      "url": "public.ninjanode.net",
       "port": 11801,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "Zeta NINJA.money",
-      "url": "ninjacoin.webhop.me",
-      "port": 11801,
-      "ssl": false,
-      "cache": false
+      "name": "Ninjanode.net - ssl",
+      "url": "public.ninjanode.net",
+      "port": 443,
+      "ssl": true,
+      "cache": true
     },
     {
       "name": "Pool-Pay.com",
       "url": "ninja.pool-pay.com",
-      "port": 11801,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "AllCoinsPool.com",
-      "url": "ninja.allcoinspool.com",
       "port": 11801,
       "ssl": false,
       "cache": false
@@ -70,5 +49,5 @@
       "ssl": false,
       "cache": false
     }
-]
+  ]
 }
