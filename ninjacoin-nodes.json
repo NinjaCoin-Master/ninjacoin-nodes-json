@@ -15,7 +15,7 @@
       "cache": false
     },
     {
-      "name": "Ninjacoin.org - EU1",
+      "name": "Ninjacoin.org",
       "url": "server.ninjacoin.org",
       "port": 11801,
       "ssl": false,
