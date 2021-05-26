@@ -29,6 +29,13 @@
       "cache": false
     },
     {
+      "name": "Ninjacoin.org - Singapore",
+      "url": "singapore.ninjacoin.org",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Ninjacoin.org - USA1",
       "url": "usa1.ninjacoin.org",
       "port": 11801,
