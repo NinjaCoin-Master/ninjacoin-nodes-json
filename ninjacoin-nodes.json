@@ -8,6 +8,13 @@
       "cache": false
     },
     {
+      "name": "Antiban NINJA node",
+      "url": "ninja_node.antiban.org",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Fastpool.xyz",
       "url": "fastpool.xyz",
       "port": 11801,
