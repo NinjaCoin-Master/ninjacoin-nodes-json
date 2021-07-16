@@ -1,5 +1,12 @@
 {
-  "nodes": [    
+  "nodes": [   
+        {
+      "name": "Ninjacoin.ddnss.eu",
+      "url": "ninjacoin.ddnss.eu",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
+    },
     {
       "name": "AllCoinsPool.com",
       "url": "ninja.allcoinspool.com",
@@ -66,13 +73,6 @@
     {
       "name": "ProxyLogin.net - US",
       "url": "ninja.proxylogin.net",
-      "port": 11801,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "ninjacoin.ddnss.eu",
-      "url": "ninjacoin.ddnss.eu",
       "port": 11801,
       "ssl": false,
       "cache": false
