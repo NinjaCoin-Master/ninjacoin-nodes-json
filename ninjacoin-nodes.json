@@ -69,6 +69,13 @@
       "port": 11801,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "ninjacoin.ddnss.eu",
+      "url": "ninjacoin.ddnss.eu",
+      "port": 11801,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
